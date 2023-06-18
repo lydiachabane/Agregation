@@ -3,3 +3,11 @@ Lien public drive MEPD: https://drive.google.com/drive/folders/1_WRRmeJSZAV4XOvZ
 Lien public drive Agrégation: https://drive.google.com/drive/folders/1e0QLydFOwDruFTX9iT0IICgm9Uz9_lAA?usp=sharing
 Pour écrire en Latex: https://latex2png.com/
 Lien vers ma thèse : https://theses.hal.science/tel-03494870
+
+N.B.
+Micro:    P(a) <-> rho(a) ou Omega(a)
+          S(E) <-> I(a)
+          [z] <-> microétat l
+          Pmicro[z] <-> Pmicro_l
+Cano:     Pcano_l <-> exp(-bE)/Z
+          P(E_l = E) = rho(E) Pcano_l <-> P(A[z] = a)  
